@@ -1,7 +1,5 @@
 User-agent: *
 Disallow: /mentionslegales.html
 Disallow: /confirmail.html
-Disallow: /confirmail_eng.html
 Disallow: /inscription.html
-Disallow: /inscription_eng.html
 
