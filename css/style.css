@@ -186,6 +186,7 @@ fieldset[disabled] .btn-sample.active {
 	font-weight: 300;
 	letter-spacing: 1px; 
 	text-align: center;
+	border-top: double gray; 
 }
 
 #form h2 {
