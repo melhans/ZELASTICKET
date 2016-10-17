@@ -5,7 +5,8 @@ body {
 
 h1{
 	font-family: "syncopate";
-	color: white; 
+	font-size: 100px;
+	color: white;
 }
 
 h2 {
@@ -13,8 +14,12 @@ h2 {
 	font-size: 25px;
 }
 
+h3 {
+	color: #0B3861;
+}
+
 #footer {
-	background-color: black;
+	background-color: #0B3861;
 	color : #aaaaaa;
 	padding-top: 3em;
 	padding-bottom: 3em;
@@ -230,6 +235,7 @@ fieldset[disabled] .btn-sample.active {
 #promesse h2 {
 	color: white;
 	text-align: center; 
+
 	font-family: "syncopate";
 	font-size: 30px;
 }
