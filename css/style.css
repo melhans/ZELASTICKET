@@ -19,8 +19,8 @@ h3 {
 }
 
 #footer {
-	background-color: #0B3861;
-	color : #aaaaaa;
+	background-color: #004776;
+	color : white;
 	padding-top: 3em;
 	padding-bottom: 3em;
 }
@@ -35,6 +35,7 @@ h3 {
 
 .social {
 	font-size: 30px;
+	color: white;
 }
 
 #produit {
@@ -110,7 +111,7 @@ h3 {
 }
 
 .navbar-default {
-background-color: #0B3861;
+background-color: #004776;
 border-color: #E7E7E7;
 }
 
@@ -199,7 +200,7 @@ fieldset[disabled] .btn-sample.active {
 }
 
 #form h2 {
-	color: #FF8F6C; 
+	color: #004776;
 	font-size: 30px;
 }
 
