@@ -37,10 +37,19 @@ h3 {
 	font-size: 30px;
 }
 
+#produit {
+	background-image: url(../images/responsive.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	}
+
 #wrapper-accueil {
 	background-image: url(../images/background.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 	height: 500px;
 	color : white;
 	text-align: center;
